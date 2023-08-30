@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktikum 1 dan 2</title>
+</head>
+<body>
+
+    <h1 style="text-align: center;">PANCASILA</h1>
+        <img src="d:\sevilla\html\pancasila\sila 1.png" align="left" width="150" height="150" hspace="20" vspace="20" alt="sila 1">
+        <br>
+        <h2>Ketuhanan Yang Maha Esa</h2>
+        <br>
+
+        <img src="d:\sevilla\html\pancasila\sila 2.png" align="right" width="150" height="150" hspace="20" vspace="20" alt="sila 2">
+        <br>
+        <h2 style="text-align: right;">Kemanusiaan Yang Adil dan Beradab</h2> 
+        <br>
+
+        <img src="d:\sevilla\html\pancasila\sila 3.webp" align="left" width="150" height="150" hspace="20" vspace="20" alt="sila 3">
+        <br>
+        <h2>Persatuan Indonesia</h2> 
+        <br>
+
+        <img src="d:\sevilla\html\pancasila\sila 4.png" align="right" width="150" height="150" hspace="20" vspace="20" alt="sila 4">
+        <br>
+        <h2 style="text-align: right;">Kerakyatan Yang Dimpimpin Oleh Hikmat Kebijaksanaan Dalam Permusyawaratan Perwakilan</h2> 
+        <br>
+
+        <img src="d:\sevilla\html\pancasila\sila 5.jpg" align="left" width="150" height="150" hspace="20" vspace="20" alt="sila 5">
+        <br>
+        <h2>Keadilan Sosial Bagi Seluruh Rakyat Indonesia</h2>
+
+</body>
+</html>
